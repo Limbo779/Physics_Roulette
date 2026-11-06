@@ -11,21 +11,39 @@ def r_date():
     return YY+MM[0]
 
 def r_code():
-    return str(rnd.randint(1000,99999))
+    return f"{rnd.randint(1, 3000):05d}"
 
 def r_id():
     return r_date()+"."+r_code()
 
 client = A.Client()
 
-for i in range(10000):
+domain = ["cs.CC","cs.AI","cs.DS","cs.GR","math.HO","gr-qc","quant-ph","physics.class-ph","q-fin.CP","q-fin.TR"]
+
+for i in range(1000):
+    id = r_id()
     search = A.Search(
-        id_list = [r_id()]
+        id_list = [id]
     )
-    dump = client.results(search)
-    try:
+    dump = list(client.results(search))
+    if not (not dump):
         for paper in dump:
-            if paper.primary_category.startswith("math"):
-                print(dump.title,end="\n\n")
-    except:
+            dumainu = []
+            for i in domain:
+                if paper.primary_category.startswith(i):
+                    dumainu.append(i)
+            if not (not dumainu):
+                print(f"Checking id : {id}  ||  Paper found !!",end="\n\n")
+                print(paper.title,end="\n\n")
+                with open("absolute_garbage_candidates.txt", "a", encoding="utf-8") as f:
+                    f.write(f"ID: {id}\nTitle: {paper.title}\n\nCatagories:\n")
+                    for i in dumainu:
+                        f.write(f"{i}\n")
+                    f.write(f"\nAbstract:\n{paper.summary}\n")
+                    f.write("="*60 + "\n\n\n")
+            
+            else:
+                print(f"Checking id : {id}  ||  Paper found BUT NOT OUR INTEREST  ")
+    else:
+        print(f"Checking id : {id}  ||  NO PAPER FOUND :(  ")
         continue
