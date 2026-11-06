@@ -1,6 +1,6 @@
 import arxiv as A
 import random as rnd 
-
+import time
 
 def r_date():
     YY = str(rnd.randint(12,24))
@@ -20,7 +20,10 @@ client = A.Client()
 
 domain = ["cs.CC","cs.AI","cs.DS","cs.GR","math.HO","gr-qc","quant-ph","physics.class-ph","q-fin.CP","q-fin.TR"]
 
-for i in range(1000):
+for i in range(16000):
+    if (i%100 == 0):
+        print("\n\n\nTime to sleep zzzzz\n\n\n")
+        time.sleep(10)
     id = r_id()
     search = A.Search(
         id_list = [id]
