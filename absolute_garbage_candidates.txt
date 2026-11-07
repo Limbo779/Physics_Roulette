@@ -1,0 +1,828 @@
+ID: 1806.01269
+Title: Testing a Quantum Inequality with a Meta-analysis of Data from Squeezed Light
+
+Catagories:
+quant-ph
+
+Abstract:
+In quantum field theory, coherent states can be created that have negative energy density, meaning it is below that of empty space, the free quantum vacuum. If no restrictions existed regarding the concentration and permanence of negative energy regions, it might, for example, be possible to produce exotic phenomena such as Lorentzian transversable wormholes, warp drives, time machines, violations of the second law of thermodynamics, and naked singularities. Quantum Inequalities (QIs) have been proposed that restrict the size and duration of the regions of negative quantum vacuum energy that can be accessed by observers. However, QIs generally are derived for situations in cosmology and are very difficult to test. Direct measurement of vacuum energy is difficult and to date no QI has been tested experimentally. We test a proposed QI for squeezed light by a meta-analysis of published data obtained from experiments with optical parametric amplifiers (OPA) and balanced homodyne detection. Over that last three decades, researchers in quantum optics have been trying to maximize the squeezing of light and the quantum vacuum and have succeeded in reducing the variance in the quantum vacuum fluctuations to -15 dB. To apply the QI, a time sampling function is required. In our meta-analysis different time sampling functions for the QI were examined, but in all physically reasonable cases the QI is violated by much or all of the measured data. This brings into question the basis for QI. Possible explanations are given for this surprising result.
+============================================================
+
+
+ID: 2010.02191
+Title: Exact Two-body Expansion of the Many-particle Wave Function
+
+Catagories:
+quant-ph
+
+Abstract:
+Progress toward the solution of the strongly correlated electron problem has been stymied by the exponential complexity of the wave function. Previous work established an exact two-body exponential product expansion for the ground-state wave function. By developing a reduced density matrix analogue of Dalgarno-Lewis perturbation theory, we prove here that (i) the two-body exponential product expansion is rapidly and globally convergent with each operator representing an order of a renormalized perturbation theory, (ii) the energy of the expansion converges quadratically near the solution, and (iii) the expansion is exact for both ground and excited states. The two-body expansion offers a reduced parametrization of the many-particle wave function as well as the two-particle reduced density matrix with potential applications on both conventional and quantum computers for the study of strongly correlated quantum systems. We demonstrate the result with the exact solution of the contracted Schrödinger equation for the molecular chains H$_{4}$ and H$_{5}$.
+============================================================
+
+
+ID: 1603.01546
+Title: Thermal stability of two-dimensional Topological Color Code
+
+Catagories:
+quant-ph
+
+Abstract:
+Thermal stability of the Topological Color Code in presence of a thermal bath is studied. We study the Lindblad evolution of the observables in the weak coupling limit of the Born-Markov approximation. The auto-correlation functions of the observables are used as a figure of merit for the thermal stability. We show that all of the observables auto-correlation functions decay exponentially in time. By finding a lower bound of the decay rate, which is a constant independent of the system size, we show that the Topological Color Code is unstable against thermal fluctuations from the bath at finite temperature, even though it is stable at T=0 against local quantum perturbations.
+============================================================
+
+
+ID: 2004.00086
+Title: On Schwarzschild causality in higher dimensions
+
+Catagories:
+gr-qc
+
+Abstract:
+We show that the causal properties of asymptotically flat spacetimes depend on their dimensionality: while the time-like future of any point in the past conformal infinity $\mathcal{I}^-$ contains the whole of the future conformal infinity $\mathcal{I}^+$ in $(2+1)$ and $(3+1)$ dimensional Schwarzschild spacetimes, this property (which we call the Penrose property) does not hold for $(d+1)$ dimensional Schwarzschild if $d>3$. We also show that the Penrose property holds for the Kerr solution in $(3+1)$ dimensions, and discuss the connection with scattering theory in the presence of positive mass.
+============================================================
+
+
+ID: 1702.02697
+Title: Quantum limited measurement of space-time curvature with scaling beyond the conventional Heisenberg limit
+
+Catagories:
+quant-ph
+
+Abstract:
+We study the problem of estimating the phase shift due to the general relativistic time dilation in the interference of photons using a non-linear Mach-Zender interferometer setup. By introducing two non-linear Kerr materials, one in the bottom and one in the top arm, we can measure the non-linear phase $φ_{NL}$ produced by the space-time curvature and achieve a scaling of the standard deviation with photon number ($N$) of $1/N^β$ where $β> 1$, which exceeds the conventional Heisenberg limit of a linear interferometer ($1/N$). The non-linear phase shift is an effect that is amplified by the intensity of the probe field. In a regime of high number of photons, this effect can dominate over the linear phase shift.
+============================================================
+
+
+ID: 1911.02168
+Title: CoKE: Contextualized Knowledge Graph Embedding
+
+Catagories:
+cs.AI
+
+Abstract:
+Knowledge graph embedding, which projects symbolic entities and relations into continuous vector spaces, is gaining increasing attention. Previous methods allow a single static embedding for each entity or relation, ignoring their intrinsic contextual nature, i.e., entities and relations may appear in different graph contexts, and accordingly, exhibit different properties. This work presents Contextualized Knowledge Graph Embedding (CoKE), a novel paradigm that takes into account such contextual nature, and learns dynamic, flexible, and fully contextualized entity and relation embeddings. Two types of graph contexts are studied: edges and paths, both formulated as sequences of entities and relations. CoKE takes a sequence as input and uses a Transformer encoder to obtain contextualized representations. These representations are hence naturally adaptive to the input, capturing contextual meanings of entities and relations therein. Evaluation on a wide variety of public benchmarks verifies the superiority of CoKE in link prediction and path query answering. It performs consistently better than, or at least equally well as current state-of-the-art in almost every case, in particular offering an absolute improvement of 21.0% in H@10 on path query answering. Our code is available at \url{https://github.com/PaddlePaddle/Research/tree/master/KG/CoKE}.
+============================================================
+
+
+ID: 1809.02564
+Title: Cooperative efficiency boost for quantum heat engines
+
+Catagories:
+quant-ph
+
+Abstract:
+The power and efficiency of many-body heat engines can be boosted by performing cooperative non-adiabatic operations in contrast to the commonly used adiabatic implementations. Here, the key property relies on the fact that non-adiabaticity is required in order to allow for cooperative effects, that can use the thermodynamic resources only present in the collective non-passive state of a many-body system. In particular, we consider the efficiency of an Otto cycle, which increases with the number of copies used and reaches a many-body bound, which we discuss analytically.
+============================================================
+
+
+ID: 1812.01303
+Title: Single atom energy-conversion device with a quantum load
+
+Catagories:
+quant-ph
+
+Abstract:
+This work reports the functioning of a single atom energy-conversion device, operating either as a quantum engine or a refrigerator, coupled to a quantum load. The "working fluid" is comprised of two optical levels of a single ion, and the load is one vibrational mode of the same ion cooled down to the quantum regime. The energy scales of these two modes differ by 9 orders of magnitude. We realize cyclic energy transfers between the working fluid and the quantum load, either increasing or decreasing the population of the vibrational mode. This is achieved albeit the interaction between the load and the working fluid leads to a significant population redistribution and quantum correlations between them. The performance of the engine cycles as a function of several parameters is examined, and found to be in agreement with theory. We specifically look at the ergotropy of the load, which indicates the amount of energy stored in the load that can be extracted with a unitary process. We show that ergotropy rises with the number of engine cycles despite an increase in the entropy of the load. Our experiment represents the first fully quantum 4-stroke energy-conversion device operating with a generic coupling to a quantum load.
+============================================================
+
+
+ID: 1502.02155
+Title: Secretary Problems with Non-Uniform Arrival Order
+
+Catagories:
+cs.DS
+
+Abstract:
+For many online problems, it is known that the uniform arrival order enables the design of algorithms with much better performance guarantees than under worst-case. The quintessential example is the secretary problem. If the sequence of elements is presented in uniformly random order there is an algorithm that picks the maximum value with probability 1/e, whereas no non-trivial performance guarantee is possible if the elements arrive in worst-case order. This work initiates an investigation into relaxations of the random-ordering hypothesis in online algorithms, by focusing on the secretary problems. We present two sets of properties of distributions over permutations as sufficient conditions, called the block-independence property and uniform-induced-ordering property. We show these two are asymptotically equivalent by borrowing some techniques from the approximation theory. Moreover, we show they both imply the existence of secretary algorithms with constant probability of correct selection, approaching the optimal constant 1/e in the limit. We substantiate our idea by providing several constructions of distributions that satisfy block-independence. We also show that Θ(log log n) is the minimum entropy of any permutation distribution that permits constant probability of correct selection in the secretary problem with n elements. While our block-independence condition is sufficient for constant probability of correct selection, it is not necessary; however, we present complexity-theoretic evidence that no simple necessary and sufficient criterion exists. Finally, we explore the extent to which the performance guarantees of other algorithms are preserved when one relaxes the uniform random ordering assumption, obtaining a positive result for Kleinberg's multiple-choice secretary algorithm and a negative result for the weighted bipartite matching algorithm of Korula and Pal.
+============================================================
+
+
+ID: 2009.02311
+Title: Can scale-dependent cosmology alleviate the $H_0$ tension?
+
+Catagories:
+gr-qc
+
+Abstract:
+Scale-dependence is a common feature to all effective models of quantum gravity. In this paper, a cosmological model based on the scale-dependent scenario of gravity is presented. It is argued that such models, where the scale-dependence appears as a correction to the classical $Λ$CDM evolution, have the potential of addressing the tensions between early and late time measurements of $H_0$. After defining criteria to parametrize this tension, we perform a numerical scan over the parameter space of the scale-dependent model, subject to these criteria. In this analysis, it is found that, indeed, the tension can be released.
+============================================================
+
+
+ID: 1710.02058
+Title: Skyline Computation with Noisy Comparisons
+
+Catagories:
+cs.DS
+
+Abstract:
+Given a set of $n$ points in a $d$-dimensional space, we seek to compute the skyline, i.e., those points that are not strictly dominated by any other point, using few comparisons between elements. We adopt the noisy comparison model [FRPU94] where comparisons fail with constant probability and confidence can be increased through independent repetitions of a comparison. In this model motivated by Crowdsourcing applications, Groz & Milo [GM15] show three bounds on the query complexity for the skyline problem. We improve significantly on that state of the art and provide two output-sensitive algorithms computing the skyline with respective query complexity $O(nd\log (dk/δ))$ and $O(ndk\log (k/δ))$ where $k$ is the size of the skyline and $δ$ the expected probability that our algorithm fails to return the correct answer. These results are tight for low dimensions.
+============================================================
+
+
+ID: 1710.00682
+Title: Constant-roll Inflation in $f(T)$ Teleparallel Gravity
+
+Catagories:
+gr-qc
+
+Abstract:
+We investigate in detail the implications of the constant-roll condition on the inflationary era of a scalar field coupled to a teleparallel $f(T)$ gravity. The resulting cosmological equations constitute a reconstruction technique which enables us to find either the $f(T)$ gravity which corresponds to a given cosmological evolution, or the Hubble rate of the cosmological evolution generated by a fixed $f(T)$ gravity. We also analyze in some detail the phase space of the constant-roll teleparallel gravity and we discuss the physical significance of the resulting fixed points and trajectories. Also we calculate the observational indices of a theory with given $f(T)$ gravity, and we discuss all the implications of the constant-roll condition on these. As we demonstrate, the resulting theory can be compatible with the current observational data, for a wide range of values of the free parameters of the theory.
+============================================================
+
+
+ID: 1910.01423
+Title: A Commentary on "Breaking Row and Column Symmetries in Matrix Models"
+
+Catagories:
+cs.AI
+
+Abstract:
+The CP 2002 paper entitled "Breaking Row and Column Symmetries in Matrix Models" by Flener et al. (https://link.springer.com/chapter/10.1007%2F3-540-46135-3_31) describes some of the first work for identifying and analyzing row and column symmetry in matrix models and for efficiently and effectively dealing with such symmetry using static symmetry-breaking ordering constraints. This commentary provides a retrospective on that work and highlights some of the subsequent work on the topic.
+============================================================
+
+
+ID: 2110.01338
+Title: Alleviating $H_0$ tension in Horndeski gravity
+
+Catagories:
+gr-qc
+
+Abstract:
+We show that the $H_0$ tension can be alleviated in the framework of Horndeski/generalized galileon gravity. In particular, since the terms depending on $G_5$ control the friction in the Friedmann equation, we construct specific sub-classes in which it depends only on the field's kinetic energy. Since the latter is small at high redshifts, namely at redshifts which affected the CMB structure, the deviations from $Λ$CDM cosmology are negligible, however as time passes it increases and thus at low redshifts the Hubble function acquires increased values in a controlled way. We consider two Models, one with quadratic and one with quartic dependence on the field's kinetic energy. In both cases we show the alleviation of the tension, resulting to $H_0 \approx 74$ km/s/Mpc for particular parameter choices. Finally, we examine the behavior of scalar metric perturbations, showing that the conditions for absence of ghost and Laplacian instabilities are fulfilled throughout the evolution, and we confront the models with SNIa data.
+============================================================
+
+
+ID: 2205.00914
+Title: Realistic soft-body tearing under 10ms in VR
+
+Catagories:
+cs.GR
+
+Abstract:
+We present a novel integration of a real-time continuous tearing algorithm for 3D meshes in VR, suitable for devices of low CPU/GPU specifications, along with a suitable particle decomposition that allows soft-body deformations on both the original and the torn model.
+============================================================
+
+
+ID: 1504.00703
+Title: The matching problem has no small symmetric SDP
+
+Catagories:
+cs.CC
+
+Abstract:
+Yannakakis showed that the matching problem does not have a small symmetric linear program. Rothvoß recently proved that any, not necessarily symmetric, linear program also has exponential size. It is natural to ask whether the matching problem can be expressed compactly in a framework such as semidefinite programming (SDP) that is more powerful than linear programming but still allows efficient optimization. We answer this question negatively for symmetric SDPs: any symmetric SDP for the matching problem has exponential size.
+  We also show that an O(k)-round Lasserre SDP relaxation for the metric traveling salesperson problem yields at least as good an approximation as any symmetric SDP relaxation of size $n^k$.
+  The key technical ingredient underlying both these results is an upper bound on the degree needed to derive polynomial identities that hold over the space of matchings or traveling salesperson tours.
+============================================================
+
+
+ID: 1611.01614
+Title: Wormholes in a viscous universe
+
+Catagories:
+gr-qc
+
+Abstract:
+We study the static and spherically symmetric wormhole spacetime configurations at present time in a viscous universe. Considering three classes of viscous models, i.e., bulk viscosity as a function of Hubble constant $H_0$, present cosmic temperature $T_0$ and dark energy density $ρ_0$, respectively, we obtain several wormhole solutions. Through the analysis for the anisotropic solutions, we conclude that, to some extent, these three classes of viscous models have very high degeneracy with each other, and deviate slightly from the ideal fluid consequence. Subsequently, without the loss of generality, to investigate the traversabilities, energy conditions and stability for the wormhole solution, we study the wormhole solution of the constant redshift function of the viscous $ω$CDM model with a constant bulk viscosity coefficient. We obtain the following conclusions: the value of traversal velocity decreases for decreasing bulk viscosity, and the traversal velocity for a traveler depends on not only the wormhole geometry but also the effects of cosmological background evolution; the null energy condition will be violated more clearly when the bulk viscosity or the cosmic expansion velocity decreases; for the case of a positive surface energy density, the range of the junction radius decreases and the values of the parameter $λ$ are further restricted when the throat radius of the wormhole $r_0/M$ increases, bulk viscosity coefficient $ζ_0$ decreases and present-day Hubble parameter $H_0$ decreases, respectively; for the case of a negative surface energy density, by increasing $r_0/M$, decreasing $ζ_0$ and increasing $H_0$, the values of the parameter $λ$ are less restricted, one may conclude that the total stability region increases, and the range of the junction radius increases, increases and decreases, respectively. \end{abstract}
+============================================================
+
+
+ID: 2406.00265
+Title: Shadows, Quasinormal Modes, and Optical Appearances of Black Holes in Horndeski Theory
+
+Catagories:
+gr-qc
+
+Abstract:
+This work describes the motion of photons in black hole (BH) spacetimes within the framework of Horndeski theory. We focus on the shadows, quasinormal modes (QNMs) and optical appearances of BHs surrounded by geometrically thin accretion disks. The QNMs of BHs are calculated by the WKB method and the eikonal limit, respectively. Using Event Horizon Telescope (EHT) observations of $\mathrm{M} 87^*$ and $\mathrm{Sgr} \mathrm{A}^*$, we can constrain the parameter in Horndeski theory to a small range. Based on the constraint, we obtain the frequency ranges of the fundamental modes for $\mathrm{M} 87^*$ and $\mathrm{Sgr} \mathrm{A}^*$ in Horndeski theory. By exploring the optical appearances of BHs, we find that for the current resolution of the EHT, it primarily captures direct emission. This work advances our understanding of the observational characteristics of BHs in Horndeski theory and constrains Horndeski theory by EHT observations of $\mathrm{M} 87^*$ and $\mathrm{Sgr} \mathrm{A}^*$.
+============================================================
+
+
+ID: 1711.01093
+Title: Quantum Catcher: Trapping and cooling particles using a moving atom diode and an atomic mirror
+
+Catagories:
+quant-ph
+
+Abstract:
+We propose a theoretical scheme for atomic cooling, i.e. the compression of both velocity and position distribution of particles in motion. This is achieved by collisions of the particles with a combination of a moving atomic mirror and a moving atom diode. An atom diode is a unidirectional barrier, i.e. an optical device through which an atom can pass in one direction only. We show that the efficiency of the scheme depends on the trajectory of the diode and the mirror. We examine both the classical and quantum mechanical descriptions of the scheme, along with the numerical simulations to show the efficiency in each case.
+============================================================
+
+
+ID: 1611.02393
+Title: Entanglement enhancement through multi-rail noise reduction for continuous-variable measurement-based quantum information processing
+
+Catagories:
+quant-ph
+
+Abstract:
+We study theoretically the teleportation of controlled-phase (CZ) gate through measurement-based quantum information processing for continuous-variable systems. We examine the degree of entanglement in the output modes of the teleported CZ-gate for two classes of resource states: the canonical cluster states that are constructed via direct implementations of two-mode squeezing operations, and the linear-optical version of cluster states which are built from linear-optical networks of beam splitters and phase shifters. In order to reduce the excess noise arising from finite-squeezed resource states, teleportation through resource states with different multi-rail designs will be considered and the enhancement of entanglement in the teleported CZ-gates will be analyzed. For multi-rail cluster with an arbitrary number of rails, we obtain analytical expressions for the entanglement in the output modes and analyze in detail the results for both classes of resource states. At the same time, we also show that for uniformly squeezed clusters the multi-rail noise reduction can be optimized when the excess noise is allocated uniformly to the rails. To facilitate the analysis, we develop a trick with manipulations of quadrature operators that can reveal rather efficiently the measurement sequence and corrective operations needed for the measurement-based gate teleportation, which will also be explained in detail.
+============================================================
+
+
+ID: 2302.00118
+Title: Measure-theoretic approach to negative probabilities
+
+Catagories:
+quant-ph
+
+Abstract:
+In this work, we elaborate on a measure-theoretic approach to negative probabilities. We study a natural notion of contextuality measure and characterize its main properties. Then, we apply this measure to relevant examples of quantum physics. In particular, we study the role played by contextuality in quantum computing circuits.
+============================================================
+
+
+ID: 2009.02494
+Title: A curvature and density-based generative representation of shapes
+
+Catagories:
+cs.GR
+
+Abstract:
+This paper introduces a generative model for 3D surfaces based on a representation of shapes with mean curvature and metric, which are invariant under rigid transformation. Hence, compared with existing 3D machine learning frameworks, our model substantially reduces the influence of translation and rotation. In addition, the local structure of shapes will be more precisely captured, since the curvature is explicitly encoded in our model. Specifically, every surface is first conformally mapped to a canonical domain, such as a unit disk or a unit sphere. Then, it is represented by two functions: the mean curvature half-density and the vertex density, over this canonical domain. Assuming that input shapes follow a certain distribution in a latent space, we use the variational autoencoder to learn the latent space representation. After the learning, we can generate variations of shapes by randomly sampling the distribution in the latent space. Surfaces with triangular meshes can be reconstructed from the generated data by applying isotropic remeshing and spin transformation, which is given by Dirac equation. We demonstrate the effectiveness of our model on datasets of man-made and biological shapes and compare the results with other methods.
+============================================================
+
+
+ID: 2212.02637
+Title: Classical Elastic Two-Particle Collision Energy Conservation using Edward Nelson's Energy, Double Diffusion and Special Relativity
+
+Catagories:
+quant-ph
+
+Abstract:
+The present paper shows that Edward Nelson's stochastic mechanics approach for quantum mechanics can be derived from the two classical elastically colliding particles with masses M and m satisfying a collision momentum preserving equation. The properties of the classical elastic momentum collision expression determine the full Edward Nelson energy collision energy for both particles. This classical total energy expression does not require a statistical expectation since no process was defined for the energy and it models the main and incident particle velocities perfectly. Quantum mechanics can be obtained by modelling the incident particle as a non-random potential using stochastic processes modelling the forward, post-collision and backward pre-collision velocities of the main particle. This presents the Schroedinger equation exactly the way that Nelson proposed in 1966 except for the diffusion constant. In this case the average energy is conserved in time and the forward, post-collision and backward pre-collision velocities of the system are related using statistical methods. If the incident particle does not have a potential the additional constraints for the movement of the incident particle leads to another Schroedinger equation. Finally, under suitable conditions it will be shown that the colliding particles satisfy Minkowski metric in special relativity. This last example shows how gravity can be quantized using details of this energy expression.
+============================================================
+
+
+ID: 2403.02080
+Title: Hybrid Quantum Neural Network Advantage for Radar-Based Drone Detection and Classification in Low Signal-to-Noise Ratio
+
+Catagories:
+quant-ph
+
+Abstract:
+In this paper, we investigate the performance of a Hybrid Quantum Neural Network (HQNN) and a comparable classical Convolution Neural Network (CNN) for detection and classification problem using a radar. Specifically, we take a fairly complex radar time-series model derived from electromagnetic theory, namely the Martin-Mulgrew model, that is used to simulate radar returns of objects with rotating blades, such as drones. We find that when that signal-to-noise ratio (SNR) is high, CNN outperforms the HQNN for detection and classification. However, in the low SNR regime (which is of greatest interest in practice) the performance of HQNN is found to be superior to that of the CNN of a similar architecture.
+============================================================
+
+
+ID: 1610.00244
+Title: Stueckelberg massive electromagnetism in de Sitter and anti-de Sitter spacetimes: Two-point functions and renormalized stress-energy tensors
+
+Catagories:
+gr-qc
+
+Abstract:
+By considering Hadamard vacuum states, we first construct the two-point functions associated with Stueckelberg massive electromagnetism in de Sitter and anti-de Sitter spacetimes. Then, from the general formalism developed in [A. Belokogne and A. Folacci, Phys. Rev. D \textbf{93}, 044063 (2016)], we obtain an exact analytical expression for the vacuum expectation value of the renormalized stress-energy tensor of the massive vector field propagating in these maximally symmetric spacetimes.
+============================================================
+
+
+ID: 2012.02335
+Title: Tight Chang's-lemma-type bounds for Boolean functions
+
+Catagories:
+cs.CC
+
+Abstract:
+Chang's lemma (Duke Mathematical Journal, 2002) is a classical result with applications across several areas in mathematics and computer science. For a Boolean function $f$ that takes values in {-1,1} let $r(f)$ denote its Fourier rank. For each positive threshold $t$, Chang's lemma provides a lower bound on $wt(f):=\Pr[f(x)=-1]$ in terms of the dimension of the span of its characters with Fourier coefficients of magnitude at least $1/t$. We examine the tightness of Chang's lemma w.r.t. the following three natural settings of the threshold:
+  - the Fourier sparsity of $f$, denoted $k(f)$,
+  - the Fourier max-supp-entropy of $f$, denoted $k'(f)$, defined to be $\max \{1/|\hat{f}(S)| : \hat{f}(S) \neq 0\}$,
+  - the Fourier max-rank-entropy of $f$, denoted $k''(f)$, defined to be the minimum $t$ such that characters whose Fourier coefficients are at least $1/t$ in absolute value span a space of dimension $r(f)$.
+  We prove new lower bounds on $wt(f)$ in terms of these measures. One of our lower bounds subsumes and refines the previously best known upper bound on $r(f)$ in terms of $k(f)$ by Sanyal (ToC, 2019). Another lower bound is based on our improvement of a bound by Chattopadhyay, Hatami, Lovett and Tal (ITCS, 2019) on the sum of the absolute values of the level-$1$ Fourier coefficients. We also show that Chang's lemma for the these choices of the threshold is asymptotically outperformed by our bounds for most settings of the parameters involved.
+  Next, we show that our bounds are tight for a wide range of the parameters involved, by constructing functions (which are modifications of the Addressing function) witnessing their tightness. Finally we construct Boolean functions $f$ for which
+  - our lower bounds asymptotically match $wt(f)$, and
+  - for any choice of the threshold $t$, the lower bound obtained from Chang's lemma is asymptotically smaller than $wt(f)$.
+============================================================
+
+
+ID: 1906.02368
+Title: A general local causality principle of space-time
+
+Catagories:
+gr-qc
+
+Abstract:
+We propose a generalisation of the local causality principle of space-time, asserting that it holds for all regimes of motion, including superluminal motions. It assumes the existence of a countably infinite set of metrical null cone speeds, $c_k$, where the first one, $c_1=c$, corresponds to the speed of light in vacuum. Our associated space-time measures do not diverge at the maximum speed of each interval of speeds and implies a generalisation of Einstein's rule for velocities addition. We construct a causal structure for each regime of motion. After introducing a simple dynamical measure, we derive an expression for the energy of material particles, which approaches the relativistic one when $v<c$. An experiment to energise photons in an 1-1 process is proposed as a test of our interpretation of the non divergence at the speed of light of present space-time measures. We discuss also the possible transition of a material particle from the subluminal regime $v<c$ to the first superluminal regime and vice versa, making discrete changes in $v^2/c^2$ around the unit in terms of a very tiny constant, $ε^2$, which we introduce to prevent the divergence of the Lorentz $γ$ factor at the speed of light in vacuum.
+============================================================
+
+
+ID: 2409.02953
+Title: Relativistic Corrections and Structure Formation in Dark Matter Superfluidity
+
+Catagories:
+gr-qc
+
+Abstract:
+The theory of dark matter superfluidity has emerged as a compelling framework, in which the dynamics are governed by a non-relativistic $P(X)$ superfluid Lagrangian that naturally leads to Modified Newtonian Dynamics (MOND)-like behavior when coupled to baryons at galactic scales. Notably, at cosmological scales, this effective description reproduces the standard $Λ$ Cold Dark Matter ($Λ$CDM) model at the background level, suggesting that cold dark matter may undergo Bose--Einstein condensation at galactic scales. In this work, we extend the non-relativistic formulation by systematically incorporating relativistic corrections within the Friedmann--Lemaître--Robertson--Walker (FLRW) spacetime. We further perform a linear perturbation analysis in this relativistic setting to investigate the evolution of matter density fluctuations. Our results clarify the viability of the superfluid dark matter scenario in explaining large-scale structure formation and identify the parameter regimes in which it remains consistent with current cosmological observations.
+============================================================
+
+
+ID: 2307.01366
+Title: Minimizing Age of Information for Mobile Edge Computing Systems: A Nested Index Approach
+
+Catagories:
+cs.AI
+
+Abstract:
+Exploiting the computational heterogeneity of mobile devices and edge nodes, mobile edge computation (MEC) provides an efficient approach to achieving real-time applications that are sensitive to information freshness, by offloading tasks from mobile devices to edge nodes. We use the metric Age-of-Information (AoI) to evaluate information freshness. An efficient solution to minimize the AoI for the MEC system with multiple users is non-trivial to obtain due to the random computing time. In this paper, we consider multiple users offloading tasks to heterogeneous edge servers in a MEC system. We first reformulate the problem as a Restless Multi-Arm-Bandit (RMAB) problem and establish a hierarchical Markov Decision Process (MDP) to characterize the updating of AoI for the MEC system. Based on the hierarchical MDP, we propose a nested index framework and design a nested index policy with provably asymptotic optimality. Finally, the closed form of the nested index is obtained, which enables the performance tradeoffs between computation complexity and accuracy. Our algorithm leads to an optimality gap reduction of up to 40%, compared to benchmarks. Our algorithm asymptotically approximates the lower bound as the system scalar gets large enough.
+============================================================
+
+
+ID: 2301.00498
+Title: Gravitational collapse and odd-parity black hole perturbations in Minimal Theory of Bigravity
+
+Catagories:
+gr-qc
+
+Abstract:
+In the former part, we study the gravitational collapse of pressureless dust and find special solutions, where, in both the physical and fiducial sectors, the exterior and interior spacetime geometries are given by the Schwarzschild spacetimes and the Friedmann-Lemaître-Robertson-Walker universes dominated by pressureless dust, respectively, with specific time slicings. In the case where the Lagrange multipliers are trivial and have no jump across the matter interfaces in both the physical and fiducial sectors, the junction conditions across them remain the same as those in general relativity (GR). For simplicity, we foliate the interior geometry by homogeneous and isotropic spacetimes. For a spatially flat interior universe, we foliate the exterior geometry by a time-independent flat space, while for a spatiallycurved interior universe, we foliate the exterior geometry by a time-independent space with deficit solid angle. Despite the rather restrictive choice of foliations, we find interesting classes of exact solutions that represent gravitational collapse in MTBG. In the spatially flat case, under a certain tuning of the initial condition, we find exact solutions of matter collapse in which the two sectors evolve independently. In the spatially closed case, once the matter energy densities and the Schwarzschild radii are tuned between the two sectors, we find exact solutions that correspond to the Oppenheimer-Snyder model in GR. In the latter part, we study odd-parity perturbations of the Schwarzschild$-$de Sitter solutions written in the spatially flat coordinates. For the higher-multipole modes $\ell\geq2$, we find that, in general, the system reduces to that of four physical modes, where two of them are dynamical and the remaining two are shadowy, i.e., satisfying only elliptic equations.
+============================================================
+
+
+ID: 2310.00253
+Title: Scalar fields around a rotating loop quantum gravity black hole: Waveform, quasi-normal modes and superradiance
+
+Catagories:
+gr-qc
+
+Abstract:
+The rotating loop quantum gravity black hole is a newly proposed non-singular black hole, which eliminates spacetime singularities when a regularization parameter is introduced through loop quantum corrections. This parameter is expected to give rise to observable effects. In this paper, the dynamical behavior of a scalar field near a rotating loop quantum gravity black hole is investigated. Given a small initial perturbation, we obtain the waveform of massless scalar fields evolving over time. By analyzing the waveform, we find that the regularization parameter only affects the damping oscillation of waveform, but not the initial outburst and late-time tail stages. This behavior is characterized by quasi-normal modes. Under scalar field perturbations, the loop quantum black holes remain stable. Moreover, we calculate the quasi-normal modes of massive scalar fields by three numerical methods, which are the Prony, WKB, and shooting methods, respectively. Our results indicate that the real part of quasi-normal modes depends only on the regularization parameter, while the imaginary part does not only on the regularization parameter but also on the angular momentum. Finally, we study the amplification effect of rotating black holes, i.e., the superradiance. Our analyses indicate the existence of stronger superradiance around loop quantum gravity black holes compared to Kerr ones.
+============================================================
+
+
+ID: 1909.01292
+Title: Decay of solutions to the Klein-Gordon equation on some expanding cosmological spacetimes
+
+Catagories:
+gr-qc
+
+Abstract:
+The decay of solutions to the Klein-Gordon equation is studied in two expanding cosmological spacetimes, namely the de Sitter universe in flat Friedmann-Lemaître-Robertson-Walker (FLRW) form, and the cosmological region of the Reissner-Nordström-de Sitter (RNdS) model. Using energy methods, for initial data with finite higher order energies, decay rates for the solution are obtained. Also, a previously established decay rate of the time derivative of the solution to the wave equation, in an expanding de Sitter universe in flat FLRW form, is improved, proving Rendall's conjecture. A similar improvement is also given for the wave equation in the cosmological region of the RNdS spacetime.
+============================================================
+
+
+ID: 1603.02005
+Title: Non self-adjoint Hamiltonians with complex eigenvalues
+
+Catagories:
+quant-ph
+
+Abstract:
+Motivated by what one observes dealing with PT-symmetric quantum mechanics, we discuss what happens if a physical system is driven by a diagonalizable Hamiltonian with not all real eigenvalues. In particular, we consider the functional structure related to systems living in finite-dimensional Hilbert spaces, and we show that certain intertwining relations can be deduced also in this case if we introduce suitable antilinear operators. We also analyze a simple model, computing the transition probabilities in the broken and in the unbroken regime.
+============================================================
+
+
+ID: 2307.01406
+Title: Performance metrics for the continuous distribution of entanglement in multi-user quantum networks
+
+Catagories:
+quant-ph
+
+Abstract:
+Entangled states shared among distant nodes are frequently used in quantum network applications. When quantum resources are abundant, entangled states can be continuously distributed across the network, allowing nodes to consume them whenever necessary. This continuous distribution of entanglement enables quantum network applications to operate continuously while being regularly supplied with entangled states. Here, we focus on the steady-state performance analysis of protocols for continuous distribution of entanglement. We propose the virtual neighborhood size and the virtual node degree as performance metrics. We utilize the concept of Pareto optimality to formulate a multi-objective optimization problem to maximize the performance. As an example, we solve the problem for a quantum network with a tree topology. One of the main conclusions from our analysis is that the entanglement consumption rate has a greater impact on the protocol performance than the fidelity requirements. The metrics that we establish in this manuscript can be utilized to assess the feasibility of entanglement distribution protocols for large-scale quantum networks.
+============================================================
+
+
+ID: 2407.00179
+Title: Standardized Data-Parallel Rendering Using ANARI
+
+Catagories:
+cs.GR
+
+Abstract:
+We propose and discuss a paradigm that allows for expressing \emph{data-parallel} rendering with the classically non-parallel ANARI API. We propose this as a new standard for data-parallel sci-vis rendering, describe two different implementations of this paradigm, and use multiple sample integrations into existing apps to show how easy it is to adopt this paradigm, and what can be gained from doing so.
+============================================================
+
+
+ID: 2404.02096
+Title: Searching for new physics in the solar system with tetrahedral spacecraft formations
+
+Catagories:
+gr-qc
+
+Abstract:
+Tetrahedral configurations of spacecraft on unperturbed heliocentric orbits allow for highly precise observations of small spatial changes in the gravitational field, especially those affecting the gravity gradient tensor (GGT). The resulting high sensitivity may be used to search for new physics that could manifest itself via deviations from general relativistic behavior yielding a non-vanishing trace[GGT]. We study the feasibility of recovering the trace[GGT] with the sensitivity of O(1e-24 s^(-2)) -- the level where some of the recently proposed cosmological models may have observable effects in the solar system. We consider how local measurements provided by precision laser ranging and atom-wave interferometry can be used for that purpose. We report on a preliminary study of such an experiment and precision that may be reached in measuring the trace[GGT], with the assumption of drag-compensated spacecraft by atom interferometer measurements. For that, we study the dynamical behavior of a tetrahedral formation established by four spacecraft on heliocentric nearby elliptical orbits. We formulate the observational equations to measure the trace[GGT] relying only on the observables available within the formation: laser ranging and the Sagnac interferometry. We demonstrate that Sagnac observable is a mission enabling and allows to measure the angular frequency of the tetrahedral rotation with respect to an inertial reference frame with an accuracy much higher than that available from any other modern navigational techniques. We show that the quality of the science measurements is affected by the changes in tetrahedron's orientation and shape as spacecraft follow their orbits. We present the preliminary mission and instrument requirements needed to measure the trace[GGT] to the required accuracy and demonstrate the feasibility of satisfying the science objectives.
+============================================================
+
+
+ID: 2104.01013
+Title: Negative temperature: further extensions
+
+Catagories:
+gr-qc
+
+Abstract:
+This paper is motivated by the recent paper M. Baldovin, S. Iubini, R. Livi and A. Vulpiani, Statistical mechanics of systems with negative temperature, arXiv:2103.12572. The authors suggest that negative absolute temperatures are consistent with equilibrium thermodynamics. This is correct, if the environment also has negative temperature. Otherwise such states represent the transient though maybe long-lived metastable effects. Here we consider the extension of the negative temperatures to the relativistic systems. We show that the negative state is possible in the Dirac vacuum, which is obtained by the $PT$ symmetry transformation from the conventional Dirac sea. If such vacuum with inverse population fills the whole Universe, its thermodynamics determined by negative temperatures becomes equilibrium.
+============================================================
+
+
+ID: 2412.00939
+Title: Narrowband and passband composite rotational quantum gates
+
+Catagories:
+quant-ph
+
+Abstract:
+High-precision, robust quantum gates are essential components in quantum computation and information processing. In this study, we present an alternative perspective, exploring the potential applicability of quantum gates that exhibit heightened sensitivity to errors. We investigate such sensitive quantum gates, which, beyond their established use in in vivo NMR spectroscopy, quantum sensing, and polarization optics, may offer significant utility in precision quantum metrology and error characterization. Utilizing the composite pulses technique, we derive three fundamental quantum gates with narrowband and passband characteristics -- the X (NOT) gate, the Hadamard gate, and gates enabling arbitrary rotations. To systematically design these composite pulse sequences, we introduce the SU(2), modified-SU(2), and regularization random search methodologies. These approaches, many of which are novel, demonstrate superior performance compared to established sequences in the literature, including NB1, SK1, and PB1.
+============================================================
+
+
+ID: 2410.02349
+Title: Atoms near a conducting wedge: decay rates and entanglement around a corner
+
+Catagories:
+quant-ph
+
+Abstract:
+The behavior of an atomic system is influenced by introducing a metallic surface. This work explores how the decay landscape can be altered by the presence of sharp corners. We examine two scenarios: the modified spontaneous decay of a single atom, which leads us to speculate about potential applications in microscopy, and the case of a more fundamental, theoretical interest - the behavior of an entangled pair of atoms near a corner. The latter, when two atoms are positioned ``out of the line of sight'' opens up a possible line of investigation into devices which are able to ``see around corners''.
+============================================================
+
+
+ID: 1512.02639
+Title: Binary Love Relations
+
+Catagories:
+gr-qc
+
+Abstract:
+When in a tight binary, the mutual tidal deformations of neutron stars imprint onto observables, encoding information about their internal structure at supranuclear densities and gravity in the extreme-gravity regime. Gravitational wave observations of their late binary inspiral may serve as a tool to extract the individual tidal deformabilities, but this is made difficult by degeneracies between them in the gravitational wave model. We here resolve this problem by discovering approximately universal relations between dimensionless combinations of the individual tidal deformabilities. We show that these relations break degeneracies in the gravitational wave model, allowing for the accurate extraction of both deformabilities. Such measurements can be used to better differentiate between equation-of-state models, and improve tests of General Relativity and cosmology.
+============================================================
+
+
+ID: 2405.01093
+Title: Superquantization rule for multistability in driven-dissipative quantum systems
+
+Catagories:
+quant-ph
+
+Abstract:
+We present a superquantization rule which indicates the possible robust stationary states of a generic driven-dissipative quantum system. Multistability in a driven cavity mode interacting with a qudit is revealed in this way within a simple intuitive picture. The accuracy of the superquantization approach is confirmed by numerical simulations of the underlying quantum model. In the case when the qudit is composed of several two-level emitters coupled homogeneously to the cavity, we demonstrate the robustness of the superquantized steady states to single-emitter decay.
+============================================================
+
+
+ID: 2403.01305
+Title: On the Development of the Concept of the Weak Cosmic Censorship Conjecture in General Relativity
+
+Catagories:
+gr-qc
+
+Abstract:
+In this thesis, we scrutinize the literature to trace the evolution of the concepts surrounding the weak cosmic censorship conjecture and the attempts to prove or disprove it. We discuss its development over the years, its conceptual transformations, and the various thought experiments constructed to validate or invalidate the weak cosmic censorship conjecture. We also discuss possible connections with blackhole thermodynamics, and end with an evaluation of the current status about the subject, and finally, speculations about the future.
+============================================================
+
+
+ID: 2212.02942
+Title: Dynamics of interacting monomial scalar field potentials and perfect fluids
+
+Catagories:
+gr-qc
+
+Abstract:
+Motivated by cosmological models of the early universe we analyse the dynamics of the Einstein equations with a minimally coupled scalar field with monomial potentials $V(φ)=\frac{(λφ)^{2n}}{2n}$, $λ>0$, $n\in\mathbb{N}$, interacting with a perfect fluid with linear equation of state $p_\mathrm{pf}=(γ_\mathrm{pf}-1)ρ_\mathrm{pf}$, $γ_\mathrm{pf}\in(0,2)$, in flat Robertson-Walker spacetimes. The interaction is a friction-like term of the form $Γ(φ)=μφ^{2p}$, $μ>0$, $p\in\mathbb{N}\cup\{0\}$. The analysis relies on the introduction of a new regular 3-dimensional dynamical systems' formulation of the Einstein equations on a compact state space, and the use of dynamical systems' tools such as quasi-homogeneous blow-ups and averaging methods involving a time-dependent perturbation parameter. We find a bifurcation at $p=n/2$ due to the influence of the interaction term. In general, this term has more impact on the future (past) asymptotics for $p<n/2$ ($p>n/2$). For $p<n/2$ we find a complexity of possible future attractors, which depends on whether $p=(n-1)/2$ or $p<(n-1)/2$. In the first case the future dynamics is governed by Liénard systems. On the other hand when $p=(n-2)/2$ the generic future attractor consists of new solutions previously unknown in the literature which can drive future acceleration whereas the case $p<(n-2)/2$ has a generic future attractor de-Sitter solution. For $p=n/2$ the future asymptotics can be either fluid dominated or have an oscillatory behaviour where neither the fluid nor the scalar field dominates. For $p>n/2$ the future asymptotics is similar to the case with no interaction. Finally, we show that irrespective of the parameters, an inflationary quasi-de-Sitter solution always exists towards the past, and therefore the cases with $p\leq(n-2)/2$ may provide new cosmological models of quintessential inflation.
+============================================================
+
+
+ID: 2302.01805
+Title: Model-free inequality for data of Einstein-Podolsky-Rosen-Bohm experiments
+
+Catagories:
+quant-ph
+
+Abstract:
+We present a new inequality constraining correlations obtained when performing Einstein-Podolsky-Rosen-Bohm experiments. The proof does not rely on mathematical models that are imagined to have produced the data and is therefore ``model-free''. The new inequality contains the model-free version of the well-known Bell-CHSH inequality as a special case. A violation of the latter implies that not all the data pairs in four data sets can be reshuffled to create quadruples. This conclusion provides a new perspective on the implications of the violation of Bell-type inequalities by experimental data.
+============================================================
+
+
+ID: 2109.01978
+Title: Doubly-ionized lanthanum as a qubit candidate for quantum networks
+
+Catagories:
+quant-ph
+
+Abstract:
+We propose doubly-ionized lanthanum (La$^{2+}$) as a possible qubit candidate for quantum networks. Transitions between the lowest levels in the atom are in the infrared, enabling a direct matter-light interface amenable to long-distance quantum communication. These transitions could also be used to directly laser-cool trapped La$^{2+}$ ions. The rich hyperfine structure of the ion may allow for a qubit stored in magnetic-field insensitive states, as well as protocols for atom-photon entanglement.
+============================================================
+
+
+ID: 1802.00471
+Title: Multipartite monogamous relations for Entanglement and Discord
+
+Catagories:
+quant-ph
+
+Abstract:
+The distribution of quantum correlations in multipartite systems play a significant role in several aspects of the quantum information theory. While it is well known that these quantum correlations can not be freely distributed, the way that it is shared in multipartite system is an open problem even for small set of qubits. Based on new monogamylike relations between entanglement and discord for $n$-partite systems, we show how these correlations are distributed in general, determining distinct equalities and inequalities to the quantum discord and the entanglement of formation for arbitrary multipartite pure states.
+============================================================
+
+
+ID: 1505.00740
+Title: Validating variational principle for higher order theory of gravity
+
+Catagories:
+gr-qc
+
+Abstract:
+Metric variation of higher order theory of gravity requires to fix the Ricci scalar in addition to the metric tensor at the boundary. Fixing Ricci scalar at the boundary implies that the classical solutions are fixed once and forever to the de-Sitter or anti de-Sitter solutions. Here, we justify such requirement from the standpoint of Noether Symmetry.
+============================================================
+
+
+ID: 2412.00410
+Title: Federated Progressive Self-Distillation with Logits Calibration for Personalized IIoT Edge Intelligence
+
+Catagories:
+cs.AI
+
+Abstract:
+Personalized Federated Learning (PFL) focuses on tailoring models to individual IIoT clients in federated learning by addressing data heterogeneity and diverse user needs. Although existing studies have proposed effective PFL solutions from various perspectives, they overlook the issue of forgetting both historical personalized knowledge and global generalized knowledge during local training on clients. Therefore, this study proposes a novel PFL method, Federated Progressive Self-Distillation (FedPSD), based on logits calibration and progressive self-distillation. We analyze the impact mechanism of client data distribution characteristics on personalized and global knowledge forgetting. To address the issue of global knowledge forgetting, we propose a logits calibration approach for the local training loss and design a progressive self-distillation strategy to facilitate the gradual inheritance of global knowledge, where the model outputs from the previous epoch serve as virtual teachers to guide the training of subsequent epochs. Moreover, to address personalized knowledge forgetting, we construct calibrated fusion labels by integrating historical personalized model outputs, which are then used as teacher model outputs to guide the initial epoch of local self-distillation, enabling rapid recall of personalized knowledge. Extensive experiments under various data heterogeneity scenarios demonstrate the effectiveness and superiority of the proposed FedPSD method.
+============================================================
+
+
+ID: 2407.01133
+Title: Chiral Quantum-Optical Elements for Waveguide-QED with Sub-wavelength Rydberg-Atom Arrays
+
+Catagories:
+quant-ph
+
+Abstract:
+We describe an approach to achieve near-perfect unidirectional light-matter coupling to an effective quantum emitter that is formed by a subwavelength array of atoms in the Rydberg-blockade regime. The nonlinear reflection and transmission of such two-dimensional superatoms are exploited in different interferometric setups for the deterministic generation of tunable single photons and entangling two-photon operations with high fidelities, $\mathcal{F}\gtrsim0.999$. The described setup can function as a versatile nonlinear optical element in a free-space photonic quantum network with simple linear elements and without the need of additional mode confinement, optical resonators, or optical isolators.
+============================================================
+
+
+ID: 2204.01380
+Title: Interferometry based on quantum Kibble-Zurek mechanism
+
+Catagories:
+quant-ph
+
+Abstract:
+We propose an interferometry within the framework of quantum Kibble-Zurek mechanism by exemplifying two prototypical quench protocols, namely the round-trip and quarter-turn ones, on the transverse Ising and quantum $XY$ chains. Each protocol contains two linear ramps that drive the system across quantum critical point twice. The two linear ramps arouse two respective nonadiabatic critical dynamics that are well described by the quantum Kibble-Zurek mechanism. However, in combination, the two critical dynamics can interfere with each other deeply. As an effect of the interference, the dynamical phase is exposed in the final excitation probability, which leads to a quantum coherent many-body oscillation in the density of defects with predictable characteristic period. Thus such an interference is available for direct experimental observations. In the quantum $XY$ model, we show that an interference can also arise from the interplay between two different critical dynamics derived from a critical point and a tricritical point. Furthermore, we demonstrate that the interference influences the dephasing of the excited quasiparticle modes intricately by disclosing a phenomenon of multiple length scales, diagonal and off-diagonal ones, in the defect-defect correlators. It turns out that the dephased result relies on how the diagonal and off-diagonal lengths are modulated by the controllable parameter in a quench protocol.
+============================================================
+
+
+ID: 2109.01660
+Title: The Universe as a driven quantum system: Unbounded heating in cyclic cosmologies
+
+Catagories:
+gr-qc
+
+Abstract:
+The Hamiltonian of an evolving Universe is shown to be formally equivalent to that of a driven quantum system, whose driving follows from the temporal dependence of the spacetime metric. This analogy allows insights from the field of driven quantum systems to be applied to cosmological settings. In particular, it is shown that periodic cyclic cosmologies are generically prohibited (except under certain limiting constraints) due to their correspondence with periodically-driven quantum systems (which are typically expected to experience unbounded heating in the infinite future). This result highlights how future work on non-periodically-driven quantum systems is required to fully describe the dynamics of more general cyclic cosmologies (for which a qualitative picture is briefly discussed).
+============================================================
+
+
+ID: 1908.00542
+Title: Quantum Isomer Search
+
+Catagories:
+quant-ph
+
+Abstract:
+Isomer search or molecule enumeration refers to the problem of finding all the isomers for a given molecule. Many classical search methods have been developed in order to tackle this problem. However, the availability of quantum computing architectures has given us the opportunity to address this problem with new (quantum) techniques. This paper describes a quantum isomer search procedure for determining all the structural isomers of alkanes. We first formulate the structural isomer search problem as a quadratic unconstrained binary optimization (QUBO) problem. The QUBO formulation is for general use on either annealing or gate-based quantum computers. We use the D-Wave quantum annealer to enumerate all structural isomers of all alkanes with fewer carbon atoms (n < 10) than Decane (C10H22). The number of isomer solutions increases with the number of carbon atoms. We find that the sampling time needed to identify all solutions scales linearly with the number of carbon atoms in the alkane. We probe the problem further by employing reverse annealing as well as a perturbed QUBO Hamiltonian and find that the combination of these two methods significantly reduces the number of samples required to find all isomers.
+============================================================
+
+
+ID: 2409.01110
+Title: End equilibrium state of a spherical gravitational collapse in the presence of matter and scalar field
+
+Catagories:
+gr-qc
+
+Abstract:
+We explore the possibilities of modeling a spherically symmetric static spacetime that can emerge as the end state of gravitational collapse, by considering it to be seeded by a composite fluid made of matter and a scalar field. In this scenario, the matter represents dark matter, while the scalar field represents dark energy. On certain scales, dark energy is believed to significantly influence the structure formation of dark matter. Various models describe the possible impacts of dark energy on structure formation under different scenarios. By investigating an inhomogeneous scalar field representing dark energy, coupled with dark matter, we demonstrate that this two-component fluid can seed spacetimes forming the final equilibrium state. We derive solutions for the scalar field and potential for Joshi-Malafarina-Narayan (JMN) spacetimes.
+============================================================
+
+
+ID: 1906.00453
+Title: Vortices and atoms in the Maxwellian era
+
+Catagories:
+math.HO
+
+Abstract:
+The mathematical study of vortices began with Herman von Helmholtz's pioneering study in 1858. It was pursued vigorously over the next two decades, largely by British physicists and mathematicians, in two contexts: Maxwell's vortex analogy for the electromagnetic field and William Thomson's (Lord Kelvin) theory that atoms were vortex rings in an all-pervading ether. By the time of Maxwell's death in 1879, the basic laws of vortices in a perfect fluid in three-dimensional Euclidean space had been established, as had their importance to physics. Early vortex studies were embedded in a web of issues spanning the fields we now know as "mathematics" and "physics" - fields which had not yet become institutionally distinct disciplines but overlapped. This paper investigates the conceptual issues with ideas of force, matter, and space, that underlay mechanics and led to vortex models being an attractive proposition for British physicists, and how these issues played out in the mathematics of vortices, paying particular attention to problems around continuity. It concludes that while they made valuable contributions to hydrodynamics and the nascent field of topology, the British ultimately failed in their more physical objectives.
+============================================================
+
+
+ID: 2301.00724
+Title: Defect wormhole: A traversable wormhole without exotic matter
+
+Catagories:
+gr-qc
+
+Abstract:
+We present a traversable-wormhole solution of the gravitational field equation of General Relativity without need of exotic matter (exotic matter can, for example, have negative energy density and vanishing isotropic pressure). Instead of exotic matter, the solution relies on a 3-dimensional "spacetime defect" characterized by a locally vanishing metric determinant.
+============================================================
+
+
+ID: 2006.01973
+Title: Cavity quantum optomechanics with an atom-array membrane
+
+Catagories:
+quant-ph
+
+Abstract:
+We consider a quantum optomechanical scheme wherein an ordered two-dimensional array of laser-trapped atoms is used as a movable membrane. The extremely light mass of the atoms yields very strong optomechanical coupling, while their spatial order largely eliminates scattering losses. We show that this combination opens the way for quantum optomechanical nonlinearities, well within the ultimate single-photon strong-coupling regime. As an example, we analyze the possibility to observe optomechanically induced quantum effects such as photon blockade and time-delayed non-classical correlations. We discuss novel opportunities opened by the optomechanical backaction on the internal states of the array atoms.
+============================================================
+
+
+ID: 2006.00740
+Title: A modified practical homodyne detector model for continuous-variable quantum key distribution: detailed security analysis and improvement by the phase-sensitive amplifier
+
+Catagories:
+quant-ph
+
+Abstract:
+The practical homodyne detector model of continuous-variable quantum key distribution models the inherent imperfections of the practical homodyne detector, namely the limited detection efficiency and the electronic noise, into trusted loss. However, the conventional practical homodyne detector model is valid only when both the imperfections of the practical homodyne detector are calibrated. In this paper, we show a modified practical homodyne detector model that can model the imperfections separately. The phase-sensitive amplifier is further applied to compensate the imperfections of the practical homodyne detector. The feasibility of the modified practical homodyne detector model with the phase-sensitive amplifier is proved and the security analysis is provided in detail. Simulation results reveal that the phase-sensitive amplifier can be used to improve the performance of the modified practical homodyne detector model, and when the gain is infinitely high, the limited detection efficiency can be fully compensated.
+============================================================
+
+
+ID: 2205.01725
+Title: Many-Fermion Simulation from the Contracted Quantum Eigensolver without Fermionic Encoding of the Wave Function
+
+Catagories:
+quant-ph
+
+Abstract:
+Quantum computers potentially have an exponential advantage over classical computers for the quantum simulation of many-fermion quantum systems. Nonetheless, fermions are more expensive to simulate than bosons due to the fermionic encoding -- a mapping by which the qubits are encoded with fermion statistics. Here we generalize the contracted quantum eigensolver (CQE) to avoid fermionic encoding of the wave function. In contrast to the variational quantum eigensolver, the CQE solves for a many-fermion stationary state by minimizing the contraction (projection) of the Schrödinger equation onto two fermions. We avoid fermionic encoding of the wave function by contracting the Schrödinger equation onto an unencoded pair of particles. Solution of the resulting contracted equation by a series of unencoded two-body exponential transformations generates an unencoded wave function from which the energy and two-fermion reduced density matrix (2-RDM) can be computed. We apply the unencoded and the encoded CQE algorithms to the hydrogen fluoride molecule, the dissociation of oxygen O$_{2}$, and a series of hydrogen chains. Both algorithms show comparable convergence towards the exact ground-state energies and 2-RDMs, but the unencoded algorithm has computational advantages in terms of state preparation and tomography.
+============================================================
+
+
+ID: 1810.01542
+Title: Contracting to a Longest Path in H-Free Graphs
+
+Catagories:
+cs.DS
+
+Abstract:
+We prove two dichotomy results for detecting long paths as patterns in a given graph. The NP-hard problem Longest Induced Path is to determine the longest induced path in a graph. The NP-hard problem Longest Path Contractibility is to determine the longest path to which a graph can be contracted to. By combining known results with new results we completely classify the computational complexity of both problems for $H$-free graphs. Our main focus is on the second problem, for which we design a general contractibility technique that enables us to reduce the problem to a matching problem.
+============================================================
+
+
+ID: 1804.00172
+Title: Theory of atmospheric quantum channels based on the law of total probability
+
+Catagories:
+quant-ph
+
+Abstract:
+The atmospheric turbulence is the main factor that influences quantum properties of propagating optical signals and may sufficiently degrade the performance of quantum communication protocols. The probability distribution of transmittance (PDT) for free-space channels is the main characteristics of the atmospheric links. Applying the law of total probability, we derive the PDT by separating the contributions from turbulence-induced beam wandering and beam-spot distortions. As a result, the obtained PDT varies from log-negative Weibull to truncated log-normal distributions depending on the channel characteristics. Moreover, we show that the method allows one to consistently describe beam tracking, a procedure which is typically used in practical long-distance free-space quantum communication. We analyze the security of decoy-state quantum key exchange through the turbulent atmosphere and show that beam tracking does not always improves quantum communication.
+============================================================
+
+
+ID: 2203.02217
+Title: Quantification of emotions in decision making
+
+Catagories:
+cs.AI
+
+Abstract:
+The problem of quantification of emotions in the choice between alternatives is considered. The alternatives are evaluated in a dual manner. From one side, they are characterized by rational features defining the utility of each alternative. From the other side, the choice is affected by emotions labeling the alternatives as attractive or repulsive, pleasant or unpleasant. A decision maker needs to make a choice taking into account both these features, the utility of alternatives and their attractiveness. The notion of utility is based on rational grounds, while the notion of attractiveness is vague and rather is based on irrational feelings. A general method, allowing for the quantification of the choice combining rational and emotional features is described. Despite that emotions seem to avoid precise quantification, their quantitative evaluation is possible at the aggregate level. The analysis of a series of empirical data demonstrates the efficiency of the approach, including the realistic behavioral problems that cannot be treated by the standard expected utility theory.
+============================================================
+
+
+ID: 1512.01798
+Title: Regarding the `Hole Argument' and the `Problem of Time'
+
+Catagories:
+gr-qc
+
+Abstract:
+The canonical formalism of general relativity affords a particularly interesting characterisation of the infamous hole argument. It also provides a natural formalism in which to relate the hole argument to the problem of time in classical and quantum gravity. In this paper, we examine the connection between these two much discussed problems in the foundations of spacetime theory along two interrelated lines. First, from a formal perspective, we consider the extent to which the two problems can and cannot be precisely and distinctly characterised. Second, from a philosophical perspective, we consider the implications of various responses to the problems, with a particular focus upon the viability of a `deflationary' attitude to the relationalist/substantivalist debate regarding the ontology of spacetime. Conceptual and formal inadequacies within the representative language of canonical gravity will be shown to be at the heart of both the canonical hole argument and the problem of time. Interesting and fruitful work at the interface of physics and philosophy relates to the challenge of resolving such inadequacies.
+============================================================
+
+
+ID: 1706.00537
+Title: Noether symmetry in $f(T)$ teleparallel gravity
+
+Catagories:
+gr-qc
+
+Abstract:
+Hao Wei et.al. has claimed in $\mathrm{Phys. Lett. \textbf{B707}, 298 (2012)}$ that Noether symmetry in the context of teleparallel $f(T)$ theory of gravity admits $f(T)\propto T^{n}$, (where $n$ is an arbitrary) in matter domain era in Friedmann- Robertson universe. But, it has been shown that the conserved current obtained under the process does not satisfy the field equations in general. Here, it is shown that Noether Symmetry admits $f(T)\propto T^\frac{3}{2}$ along with a conserved current $ a \dot a T^\frac{1}{2}$ in teleparallel $f(T)$ gravity. Thus, their claim is not correct.
+============================================================
+
+
+ID: 1706.02277
+Title: A Note on Multiparty Communication Complexity and the Hales-Jewett Theorem
+
+Catagories:
+cs.CC
+
+Abstract:
+For integers $n$ and $k$, the density Hales-Jewett number $c_{n,k}$ is defined as the maximal size of a subset of $[k]^n$ that contains no combinatorial line. We show that for $k \ge 3$ the density Hales-Jewett number $c_{n,k}$ is equal to the maximal size of a cylinder intersection in the problem $Part_{n,k}$ of testing whether $k$ subsets of $[n]$ form a partition. It follows that the communication complexity, in the Number On the Forehead (NOF) model, of $Part_{n,k}$, is equal to the minimal size of a partition of $[k]^n$ into subsets that do not contain a combinatorial line. Thus, the bound in \cite{chattopadhyay2007languages} on $Part_{n,k}$ using the Hales-Jewett theorem is in fact tight, and the density Hales-Jewett number can be thought of as a quantity in communication complexity. This gives a new angle to this well studied quantity.
+  As a simple application we prove a lower bound on $c_{n,k}$, similar to the lower bound in \cite{polymath2010moser} which is roughly $c_{n,k}/k^n \ge \exp(-O(\log n)^{1/\lceil \log_2 k\rceil})$. This lower bound follows from a protocol for $Part_{n,k}$. It is interesting to better understand the communication complexity of $Part_{n,k}$ as this will also lead to the better understanding of the Hales-Jewett number. The main purpose of this note is to motivate this study.
+============================================================
+
+
+ID: 1612.00708
+Title: Non-Hermitian Floquet invisibility
+
+Catagories:
+quant-ph
+
+Abstract:
+Wave transport and scattering in open systems can be profoundly affected by non- Hermitian dynamics. In this work we consider wave scattering in a one-dimensional tight-binding lattice with a low-frequency harmonically-vibrating complex site potential. Floquet scattering is shown to be suppressed in a range of the spectral lattice band, which is limited by a singularity in the spectral transmission/reflection amplitudes for inelastic scattering channels. Invisibility over the entire spectral band is found when the singularity is pushed at the edge of the Brillouin zone, which requires a modulation frequency larger than the width of the tight-binding lattice band. Remarkably, invisibility is found to persist for multiple oscillating lattice impurities.
+============================================================
+
+
+ID: 2201.02381
+Title: Offline Reinforcement Learning for Road Traffic Control
+
+Catagories:
+cs.AI
+
+Abstract:
+Traffic signal control is an important problem in urban mobility with a significant potential of economic and environmental impact. While there is a growing interest in Reinforcement Learning (RL) for traffic signal control, the work so far has focussed on learning through simulations which could lead to inaccuracies due to simplifying assumptions. Instead, real experience data on traffic is available and could be exploited at minimal costs. Recent progress in offline or batch RL has enabled just that. Model-based offline RL methods, in particular, have been shown to generalize from the experience data much better than others.
+  We build a model-based learning framework which infers a Markov Decision Process (MDP) from a dataset collected using a cyclic traffic signal control policy that is both commonplace and easy to gather. The MDP is built with pessimistic costs to manage out-of-distribution scenarios using an adaptive shaping of rewards which is shown to provide better regularization compared to the prior related work in addition to being PAC-optimal. Our model is evaluated on a complex signalized roundabout showing that it is possible to build highly performant traffic control policies in a data efficient manner.
+============================================================
+
+
+ID: 1805.01713
+Title: Metasurface imaging with entangled photons
+
+Catagories:
+quant-ph
+
+Abstract:
+Plasmonics and metamaterials have recently been shown to allow the control and interaction with non-classical states of light, a rather counterintuitive finding given the high losses typically encountered in these systems. Here, we demonstrate a range of functionalities that are allowed with correlated and entangled photons that are used to illuminate multiple, overlaid patterns on plasmonic metasurfaces. Correlated photons allow to nonlocally determine the pattern that is imaged or, alternatively to un-scramble an image that is otherwise blurred. Entangled photons allow a more important functionality whereby the images imprinted on the metasurface are individually visible only when illuminated with one of the entangled photons. Correlated single photon imaging of functional metasurfaces could therefore promise advances towards the use of nanostructured subwavelength thin devices in quantum information protocols.
+============================================================
+
+
+ID: 1602.00546
+Title: On the Functions Generated by the General Purpose Analog Computer
+
+Catagories:
+cs.CC
+
+Abstract:
+We consider the General Purpose Analog Computer (GPAC), introduced by Claude Shannon in 1941 as a mathematical model of Differential Analysers, that is to say as a model of continuous-time analog (mechanical, and later one electronic) machines of that time. We extend the model properly to a model of computation not restricted to univariate functions (i.e. functions $f: \mathbb{R} \to \mathbb{R}$) but also to the multivariate case of (i.e. functions $f: \mathbb{R}^n \to \mathbb{R}^m$), and establish some basic properties. In particular, we prove that a very wide class of (continuous and discontinuous) functions can be uniformly approximated over their full domain. Technically: we generalize some known results about the GPAC to the multidimensional case: we extend naturally the notion of \emph{generable} function, from the unidimensional to the multidimensional case. We prove a few stability properties of this class, mostly stability by arithmetic operations, composition and ODE solving. We establish that generable functions are always analytic. We prove that generable functions include some basic (useful) generable functions, and that we can (uniformly) approximate a wide range of functions this way. This extends some of the results from \cite{Sha41} to the multidimensional case, and this also strengths the approximation result from \cite{Sha41} over a compact domain to a uniform approximation result over unbounded domains. We also discuss the issue of constants, and we prove that involved constants can basically assumed to always be polynomial time computable numbers.
+============================================================
+
+
+ID: 1509.00767
+Title: Why Bohmian Mechanics? one and two-time position measurements, Bell inequalities, philosophy and physics
+
+Catagories:
+quant-ph
+
+Abstract:
+In Bohmian mechanics particles follow continuous trajectories, hence 2-time position correlations are well defined. Nevertheless, Bohmian mechanics predicts the violation of Bell inequalities. Motivated by this fact we investigate position measurements in Bohmian mechanics by coupling the particles to macroscopic pointers. This explains the violation of Bell inequalities despite 2-time position correlations. We relate this fact to so-called surrealistic trajectories that, in our model, correspond to slowly moving pointers. Next, we emphasize that the nice feature of Bohmian mechanics, which doesn't distinguish microscopic and macroscopic systems, implies that the quantum weirdness of quantum physics also shows up at the macro-scale. Finally, we discuss the fact that Bohmian mechanics is attractive to philosophers, but not so much to physicists and argue that the Bohmian community is responsible for the latter.
+============================================================
+
+
+ID: 2006.01462
+Title: New approaches to the general relativistic Poynting-Robertson effect
+
+Catagories:
+gr-qc
+
+Abstract:
+Objectives: A systematic study on the general relativistic Poynting-Robertson effect has been developed so far by introducing different complementary approaches, which can be mainly divided in two kinds: (1) improving the theoretical assessments and model in its simple aspects, and (2) extracting mathematical and physical information from such system with the aim to extend methods or results to other similar physical systems of analogue structure.
+  Methods/Analysis: We use these theoretical approaches: relativity of observer splitting formalism; Lagrangian formalism and Rayleigh potential with a new integration method; Lyapunov theory os stability.
+  Findings: We determined the three-dimensional formulation of the general relativistic Poynting-Robertson effect model. We determine the analytical form of the Rayleigh potential and discuss its implications. We prove that the critical hypersurfaces (regions where there is a balance between gravitational and radiation forces) are stable configurations.
+  Novelty /Improvement: Our new contributions are: to have introduced the three-dimensional description; to have determined the general relativistic Rayleigh potential for the first time in the General Relativity literature; to have provided an alternative, general and more elegant proof of the stability of the critical hypersurfaces.
+============================================================
+
+
+ID: 1911.01642
+Title: Role of Quantum Optics in Synthesizing Quantum Mechanics and Relativity
+
+Catagories:
+quant-ph
+
+Abstract:
+Two-photon states produce enough symmetry needed for Dirac's construction of the two-oscillator system which produces the Lie algebra for the O(3,2) space-time symmetry. This O(3,2) group can be contracted to the inhomogeneous Lorentz group which, according to Dirac, serves as the basic space-time symmetry for quantum mechanics in the Lorentz-covariant world. Since the harmonic oscillator serves as the language of Heisenberg's uncertainty relations, it is right to say that the symmetry of the Lorentz-covariant world, with Einstein's $E = mc^2$, is derivable from Heisenberg's uncertainty relations.
+============================================================
+
+
+ID: 1707.01809
+Title: Entangled coherent states by mixing squeezed vacuum and coherent light
+
+Catagories:
+quant-ph
+
+Abstract:
+Entangled coherent states are shown to emerge, with high fidelity, when mixing coherent and squeezed vacuum states of light on a beam-splitter. These maximally entangled states, where photons bunch at the exit of a beamsplitter, are measured experimentally by Fock-state projections. Entanglement is examined theoretically using a Bell-type nonlocality test and compared with ideal entangled coherent states. We experimentally show nearly perfect similarity with entangled coherent states for an optimal ratio of coherent and squeezed vacuum light. In our scheme, entangled coherent states are generated deterministically with small amplitudes, which could be beneficial, for example, in deterministic distribution of entanglement over long distances.
+============================================================
+
+
+ID: 2307.01235
+Title: A generalized scattering theory in quantum mechanics
+
+Catagories:
+quant-ph
+
+Abstract:
+In quantum mechanics textbooks, a single-particle scattering theory is introduced. In the present work, a generalized scattering theory is presented, which can be in principle applied to the scattering problems of arbitrary number of particle. In laboratory frame, a generalized Lippmann-Schwinger scattering equation is derived. We emphasized that the derivation is rigorous, even for treating infinitesimals. No manual operation such as analytical continuation is allowed. In the case that before scattering N particles are plane waves and after the scattering they are new plane waves, the transition amplitude and transition probability are given and the generalized S matrix is presented. It is proved that the transition probability from a set of plane waves to a new set of plane waves of the N particles equal to that of the reciprocal process. The generalized theory is applied to the cases of one- and two-particle scattering as two examples. When applied to single-particle scattering problems, our generalized formalism degrades to that usually seen in the literature. When our generalized theory is applied to two-particle scattering problems, the formula of the transition probability of two-particle collision is given. It is shown that the transition probability of the scattering of two free particles is identical to that of the reciprocal process. This transition probability and the identity are needed in deriving Boltzmann transport equation in statistical mechanics. The case of identical particles is also discussed.
+============================================================
+
+
+ID: 1609.02677
+Title: Killing Symmetry on Finsler Manifold
+
+Catagories:
+gr-qc
+
+Abstract:
+Killing vector fields $K$ are defined on Finsler manifold. The Killing symmetry is reformulated simply as $δK^\flat =0$ by using the Killing non-linear 1-form $K^\flat$ and the spray operator $δ$ with the Finsler non-linear connection. $K^\flat$ is related to the generalization of Killing tensors on Finsler manifold, and the condition $δK^\flat =0$ gives an analytical method of finding higher derivative conserved quantities, which may be called hidden conserved quantities. We show two examples: the Carter constant on Kerr spacetime and the Runge-Lentz vectors in Newtonian gravity.
+============================================================
+
+
